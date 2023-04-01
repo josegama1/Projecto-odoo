@@ -1,1 +1,1 @@
-git hub
+git hub, estamos a usar o git hub como plataforma de hospedagem do nosso código.
